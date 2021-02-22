@@ -12,3 +12,9 @@
 .page-link{
     text-decoration-color: rgb(0, 255, 55);
 }
+.img{
+    border: 8px solid red;
+    width: 400px;
+    padding: 30px 10px;
+
+}
