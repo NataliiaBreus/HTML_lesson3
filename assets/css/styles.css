@@ -1,0 +1,14 @@
+.main-article{
+    font-size: 1.3rem;
+    color: aqua;
+    border: 5px solid red;
+}
+.article-header{
+
+}
+.article-content{
+
+}
+.page-link{
+    text-decoration-color: rgb(0, 255, 55);
+}
